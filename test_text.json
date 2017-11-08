@@ -2,7 +2,7 @@
     {
         "action": "talk",
 	"voiceName": "Tatyana",
-        "text": "Привет, проверка текта 0,7,5,1",
+        "text": "Привет, проверка текта <break time="1s"/> 0 7 5 1 <break time="500ms"/>",
 	"loop": 2
     }
 ]
